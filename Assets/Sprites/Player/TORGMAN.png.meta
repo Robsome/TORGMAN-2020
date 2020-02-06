@@ -1,0 +1,571 @@
+fileFormatVersion: 2
+guid: 5c64f861cfcd2ba46aee9ea34bd2e29e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6382480414938295115
+    second: TORGMAN_Walk1
+  - first:
+      213: -2421565524811040713
+    second: TORGMAN_walk2
+  - first:
+      213: 2493732305341303742
+    second: TORGMAN_StandnShoot
+  - first:
+      213: -2532078206787440019
+    second: TORGMAN_walknshoot1
+  - first:
+      213: -3579500395531549219
+    second: TORGMAN_jumpnshoot
+  - first:
+      213: -1287168678253047990
+    second: TORGMAN_standing
+  - first:
+      213: 4196610492977653922
+    second: TORGMAN_0
+  - first:
+      213: 5301270300984896397
+    second: TORGMAN_1
+  - first:
+      213: 1015049227629868198
+    second: TORGMAN_2
+  - first:
+      213: 483869822703639578
+    second: TORGMAN_3
+  - first:
+      213: 2302036456037171930
+    second: TORGMAN_4
+  - first:
+      213: -786395854600016857
+    second: TORGMAN_5
+  - first:
+      213: -666232794006140588
+    second: TORGMAN_6
+  - first:
+      213: -8063671204501502679
+    second: TORGMAN_7
+  - first:
+      213: 89720094627589485
+    second: TORGMAN_8
+  - first:
+      213: 8354509224076556140
+    second: TORGMAN_9
+  - first:
+      213: 4921583039432103539
+    second: TORGMAN_10
+  - first:
+      213: 5720117311387828547
+    second: TORGMAN_11
+  - first:
+      213: -8903110789717394655
+    second: TORGMAN_12
+  - first:
+      213: -3439607034225973219
+    second: TORGMAN_13
+  - first:
+      213: -1376208049265838088
+    second: TORGMAN_14
+  - first:
+      213: -4980458211548224495
+    second: TORGMAN_15
+  - first:
+      213: -5110435574105976061
+    second: TORGMAN_16
+  externalObjects: {}
+  serializedVersion: 8
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 500
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TORGMAN_0
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 2120
+        width: 708
+        height: 609
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfe6fa5ba9c261449ad33e8e5c72aad8
+      internalID: 4196610492977653922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORGMAN_1
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 2171
+        width: 534
+        height: 583
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d287946421c0ba48b9ab2441ea9035c
+      internalID: 5301270300984896397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORGMAN_2
+      rect:
+        serializedVersion: 2
+        x: 2224
+        y: 2171
+        width: 558
+        height: 632
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fa228a0fb68bf341a10b08be97877bc
+      internalID: 1015049227629868198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORGMAN_3
+      rect:
+        serializedVersion: 2
+        x: 3075
+        y: 2171
+        width: 682
+        height: 558
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c580da68d5344445a5d6aaa5d3133af
+      internalID: 483869822703639578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORGMAN_4
+      rect:
+        serializedVersion: 2
+        x: 3900
+        y: 2146
+        width: 682
+        height: 759
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fffff0a8e990e944e881f68b028db660
+      internalID: 2302036456037171930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORGMAN_5
+      rect:
+        serializedVersion: 2
+        x: 4898
+        y: 2046
+        width: 209
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 717e30d78253c584ea0c61a909489c34
+      internalID: -786395854600016857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORGMAN_6
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 1295
+        width: 782
+        height: 609
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 112d3fc2b8f4ac24d8a2c057a4a5eb86
+      internalID: -666232794006140588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORGMAN_7
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 1346
+        width: 784
+        height: 583
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78639a3d9df80444b92565f55dad83a2
+      internalID: -8063671204501502679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORGMAN_8
+      rect:
+        serializedVersion: 2
+        x: 2224
+        y: 1346
+        width: 782
+        height: 634
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddbd5fcf88317594f863abb1e19760ba
+      internalID: 89720094627589485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORGMAN_9
+      rect:
+        serializedVersion: 2
+        x: 3075
+        y: 1346
+        width: 756
+        height: 558
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d17eb0c8dd2e124c86ac8769b1e5cab
+      internalID: 8354509224076556140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORGMAN_10
+      rect:
+        serializedVersion: 2
+        x: 3900
+        y: 1346
+        width: 733
+        height: 759
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3161c620f51d0e04989871b2c967d00d
+      internalID: 4921583039432103539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORGMAN_11
+      rect:
+        serializedVersion: 2
+        x: 4898
+        y: 1797
+        width: 158
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 989ec7f69f74526449f0780d8d4989ea
+      internalID: 5720117311387828547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORGMAN_12
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 345
+        width: 458
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 147df1632176544488ec44bbcc658364
+      internalID: -8903110789717394655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORGMAN_13
+      rect:
+        serializedVersion: 2
+        x: 1748
+        y: 345
+        width: 609
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a2817f7a22abd4cb3828e8d672d0e1
+      internalID: -3439607034225973219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORGMAN_14
+      rect:
+        serializedVersion: 2
+        x: 2548
+        y: 470
+        width: 410
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c99432ed35732246a2d69ff1a48ba4f
+      internalID: -1376208049265838088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORGMAN_15
+      rect:
+        serializedVersion: 2
+        x: 3098
+        y: 345
+        width: 733
+        height: 535
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c719b99e0f96bb44b2fd48fa8f487cb
+      internalID: -4980458211548224495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORGMAN_16
+      rect:
+        serializedVersion: 2
+        x: 4098
+        y: 396
+        width: 535
+        height: 609
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dfe7ecbd438a224f8f6d530753e4662
+      internalID: -5110435574105976061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 933ff0c370ff58947a6df711f1bb0a26
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1711 @@
+fileFormatVersion: 2
+guid: 564ceb11c632a0342b770d97755cb95b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1748960265531173880
+    second: magma_lvl_0
+  - first:
+      213: 6104156819876076573
+    second: magma_lvl_1
+  - first:
+      213: 3041827119500060335
+    second: magma_lvl_2
+  - first:
+      213: 8529138254078372048
+    second: magma_lvl_3
+  - first:
+      213: 1136562972981447405
+    second: magma_lvl_4
+  - first:
+      213: 4192619199436498798
+    second: magma_lvl_5
+  - first:
+      213: 8143647403315069368
+    second: magma_lvl_6
+  - first:
+      213: 510776858017841946
+    second: magma_lvl_7
+  - first:
+      213: -1941808942906427443
+    second: magma_lvl_8
+  - first:
+      213: -9076336500814925679
+    second: magma_lvl_9
+  - first:
+      213: 4011514545505965180
+    second: magma_lvl_10
+  - first:
+      213: -2482769978308176351
+    second: magma_lvl_11
+  - first:
+      213: -855646674329049031
+    second: magma_lvl_12
+  - first:
+      213: 6494033021727116895
+    second: magma_lvl_13
+  - first:
+      213: -7127796309437109046
+    second: magma_lvl_14
+  - first:
+      213: -8725857841985028524
+    second: magma_lvl_15
+  - first:
+      213: -9134897481735981526
+    second: magma_lvl_16
+  - first:
+      213: 8714375949065203769
+    second: magma_lvl_17
+  - first:
+      213: 6071203388087303797
+    second: magma_lvl_18
+  - first:
+      213: -3033777877650794193
+    second: magma_lvl_19
+  - first:
+      213: 8791365846633834114
+    second: magma_lvl_20
+  - first:
+      213: 5325129844190596844
+    second: magma_lvl_21
+  - first:
+      213: 413723997493465434
+    second: magma_lvl_22
+  - first:
+      213: 606694195046278163
+    second: magma_lvl_23
+  - first:
+      213: -4356847105860645057
+    second: magma_lvl_24
+  - first:
+      213: -2282316084231897109
+    second: magma_lvl_25
+  - first:
+      213: 9178037319549379932
+    second: magma_lvl_26
+  - first:
+      213: -6635330172827706175
+    second: magma_lvl_27
+  - first:
+      213: -1039928117100544308
+    second: magma_lvl_28
+  - first:
+      213: -3945007842188785618
+    second: magma_lvl_29
+  - first:
+      213: -2804805251917966882
+    second: magma_lvl_30
+  - first:
+      213: -6335494312372475980
+    second: magma_lvl_31
+  - first:
+      213: 3793253868724100413
+    second: magma_lvl_32
+  - first:
+      213: 379105753497743280
+    second: magma_lvl_33
+  - first:
+      213: 258163022833151309
+    second: magma_lvl_34
+  - first:
+      213: -5452978123178242096
+    second: magma_lvl_35
+  - first:
+      213: 7932474165210814749
+    second: magma_lvl_36
+  - first:
+      213: -3826771748611894170
+    second: magma_lvl_37
+  - first:
+      213: 4775550656039170494
+    second: magma_lvl_38
+  - first:
+      213: 5939269740294338969
+    second: magma_lvl_39
+  - first:
+      213: -644203729403131863
+    second: magma_lvl_40
+  - first:
+      213: -3224297890695284813
+    second: magma_lvl_41
+  - first:
+      213: 8720535283900734979
+    second: magma_lvl_42
+  - first:
+      213: -6651008744437407200
+    second: magma_lvl_43
+  - first:
+      213: -8824092133238489374
+    second: magma_lvl_44
+  - first:
+      213: 5593329027677428623
+    second: magma_lvl_45
+  - first:
+      213: 1809343285913437842
+    second: magma_lvl_46
+  - first:
+      213: 2270708766489203278
+    second: magma_lvl_47
+  - first:
+      213: 2662400539064904477
+    second: magma_lvl_48
+  - first:
+      213: -1862246939534623357
+    second: magma_lvl_49
+  - first:
+      213: -3431016346894190067
+    second: magma_lvl_50
+  - first:
+      213: 2863949209993525812
+    second: magma_lvl_51
+  - first:
+      213: 4588361605061981365
+    second: magma_lvl_52
+  - first:
+      213: -1009619847008540944
+    second: magma_lvl_53
+  - first:
+      213: 6080604825042879657
+    second: magma_lvl_54
+  - first:
+      213: -4116894933051520893
+    second: magma_lvl_55
+  - first:
+      213: 1196166928640168384
+    second: magma_lvl_56
+  - first:
+      213: -625599679536722937
+    second: magma_lvl_57
+  - first:
+      213: -7431586743577746376
+    second: magma_lvl_58
+  - first:
+      213: 1355210645361374322
+    second: magma_lvl_59
+  - first:
+      213: -7136010845927757289
+    second: magma_lvl_60
+  - first:
+      213: 5462061820331482685
+    second: magma_lvl_61
+  - first:
+      213: 5868942862261097334
+    second: magma_lvl_62
+  - first:
+      213: 7950855954897735526
+    second: magma_lvl_63
+  - first:
+      213: -6277770912778227801
+    second: magma_lvl_64
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: magma_lvl_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 952
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 804ddb6a7e17ab7e0800000000000000
+      internalID: -1748960265531173880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_lvl_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 952
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1cddf5594256b450800000000000000
+      internalID: 6104156819876076573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_lvl_2
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 952
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa663fd16adb63a20800000000000000
+      internalID: 3041827119500060335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_lvl_3
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 952
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d869828d069d5670800000000000000
+      internalID: 8529138254078372048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_lvl_4
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 842
+        width: 32
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deacb6d8002e5cf00800000000000000
+      internalID: 1136562972981447405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_lvl_5
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 930
+        width: 122
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6725ecc2fc2f2a30800000000000000
+      internalID: 4192619199436498798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_lvl_6
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 930
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b180aa9a2c040170800000000000000
+      internalID: 8143647403315069368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_lvl_7
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 930
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a13c4ad98d4a61700800000000000000
+      internalID: 510776858017841946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_lvl_8
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 930
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc7b268fd0f4d05e0800000000000000
+      internalID: -1941808942906427443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_lvl_9
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 928
+        width: 50
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 190b30f7a006a0280800000000000000
+      internalID: -9076336500814925679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_lvl_10
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 928
+        width: 50
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c741238a933cba730800000000000000
+      internalID: 4011514545505965180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_lvl_11
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 928
+        width: 82
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 126dfe7ebdd6b8dd0800000000000000
+      internalID: -2482769978308176351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_lvl_12
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 916
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9386f5312e12024f0800000000000000
+      internalID: -855646674329049031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_lvl_13
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 916
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5e83bb50a07f1a50800000000000000
+      internalID: 6494033021727116895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_lvl_14
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 914
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc29a0750bf41d90800000000000000
+      internalID: -7127796309437109046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_lvl_15
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 914
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45efce7368687e680800000000000000
+      internalID: -8725857841985028524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_lvl_16
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 918
+        width: 122
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a26348d93235a3180800000000000000
+      internalID: -9134897481735981526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_lvl_17
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 896
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9303d3341ceafe870800000000000000
+      internalID: 8714375949065203769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_lvl_18
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 896
+        width: 46
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e771a905f314450800000000000000
+      internalID: 6071203388087303797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_lvl_19
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 896
+        width: 68
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f299f2b081bd5e5d0800000000000000
+      internalID: -3033777877650794193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_lvl_20
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 880
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2866c1ba8a4310a70800000000000000
+      internalID: 8791365846633834114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_lvl_21
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 880
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceecfc92169a6e940800000000000000
+      internalID: 5325129844190596844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_lvl_22
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 878
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5117a1a8c7ddb500800000000000000
+      internalID: 413723997493465434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_lvl_23
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 878
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 314660fe7296b6800800000000000000
+      internalID: 606694195046278163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_lvl_24
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 884
+        width: 122
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3fcc7a04ae5983c0800000000000000
+      internalID: -4356847105860645057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_lvl_25
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 778
+        width: 32
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bef72361d959350e0800000000000000
+      internalID: -2282316084231897109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_lvl_26
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 876
+        width: 40
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c55e4079050fe5f70800000000000000
+      internalID: 9178037319549379932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_lvl_27
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 876
+        width: 40
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc5c210d529ae3a0800000000000000
+      internalID: -6635330172827706175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_lvl_28
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 876
+        width: 46
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccef74423ee6191f0800000000000000
+      internalID: -1039928117100544308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_lvl_29
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 866
+        width: 74
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e280532e4448049c0800000000000000
+      internalID: -3945007842188785618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_lvl_30
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 846
+        width: 86
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed1974fdb745319d0800000000000000
+      internalID: -2804805251917966882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_lvl_31
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 842
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b7e7826d7dc318a0800000000000000
+      internalID: -6335494312372475980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_lvl_32
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 842
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3d1d2ccb4854a430800000000000000
+      internalID: 3793253868724100413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_lvl_33
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 842
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bf2a899caad24500800000000000000
+      internalID: 379105753497743280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_lvl_34
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 842
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4d6c16c6ed259300800000000000000
+      internalID: 258163022833151309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_lvl_35
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 846
+        width: 44
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0df0cffb9412354b0800000000000000
+      internalID: -5452978123178242096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_lvl_36
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 846
+        width: 44
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d199a57a93fc51e60800000000000000
+      internalID: 7932474165210814749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_lvl_37
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 854
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 664dc77ae5394eac0800000000000000
+      internalID: -3826771748611894170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_lvl_38
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 846
+        width: 46
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb1391c050a264240800000000000000
+      internalID: 4775550656039170494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_lvl_39
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 848
+        width: 48
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99978777c568c6250800000000000000
+      internalID: 5939269740294338969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_lvl_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 678
+        width: 482
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 928c1f90f145f07f0800000000000000
+      internalID: -644203729403131863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_lvl_41
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 812
+        width: 46
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b7f017c62ef043d0800000000000000
+      internalID: -3224297890695284813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_lvl_42
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 812
+        width: 44
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30ed92823a0950970800000000000000
+      internalID: 8720535283900734979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_lvl_43
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 812
+        width: 44
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 022aac519ced2b3a0800000000000000
+      internalID: -6651008744437407200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_lvl_44
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 790
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ee3005f4f68a8580800000000000000
+      internalID: -8824092133238489374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_lvl_45
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 788
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b189ead1f7f9d40800000000000000
+      internalID: 5593329027677428623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_lvl_46
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 790
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 296cb99d1241c1910800000000000000
+      internalID: 1809343285913437842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_lvl_47
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 776
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4254f6a79d238f10800000000000000
+      internalID: 2270708766489203278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_lvl_48
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 776
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1ba5cc2f2fb2f420800000000000000
+      internalID: 2662400539064904477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_lvl_49
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 776
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38dfafc6648f726e0800000000000000
+      internalID: -1862246939534623357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_lvl_50
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 788
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0a30d09fc49260d0800000000000000
+      internalID: -3431016346894190067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_lvl_51
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 746
+        width: 52
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43abc64f1aaceb720800000000000000
+      internalID: 2863949209993525812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_lvl_52
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 746
+        width: 44
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b4b2c2d1922daf30800000000000000
+      internalID: 4588361605061981365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_lvl_53
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 746
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f62fdc291c1df1f0800000000000000
+      internalID: -1009619847008540944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_lvl_54
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 738
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a405383fd5a26450800000000000000
+      internalID: 6080604825042879657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_lvl_55
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 738
+        width: 66
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 388cbd1eed9ddd6c0800000000000000
+      internalID: -4116894933051520893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_lvl_56
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 740
+        width: 36
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c1daa9eb73a99010800000000000000
+      internalID: 1196166928640168384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_lvl_57
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 736
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70c8d91f76c6157f0800000000000000
+      internalID: -625599679536722937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_lvl_58
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 736
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 834eb8f1b33bdd890800000000000000
+      internalID: -7431586743577746376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_lvl_59
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 736
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 274b798d6ecaec210800000000000000
+      internalID: 1355210645361374322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_lvl_60
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 736
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71a242f91fbc7fc90800000000000000
+      internalID: -7136010845927757289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_lvl_61
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 54
+        width: 726
+        height: 510
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3ed41e49442dcb40800000000000000
+      internalID: 5462061820331482685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_lvl_62
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 534
+        width: 32
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6731320307ca27150800000000000000
+      internalID: 5868942862261097334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_lvl_63
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 534
+        width: 32
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66f8af39d5d175e60800000000000000
+      internalID: 7950855954897735526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magma_lvl_64
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 498
+        width: 32
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7afe29aad90e0e8a0800000000000000
+      internalID: -6277770912778227801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &8769770416321640782
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 467556, guid: 7201f8954189c4d769c48f324a1d920f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -19
+      objectReference: {fileID: 0}
+    - target: {fileID: 467556, guid: 7201f8954189c4d769c48f324a1d920f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 25
+      objectReference: {fileID: 0}
+    - target: {fileID: 467556, guid: 7201f8954189c4d769c48f324a1d920f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 467556, guid: 7201f8954189c4d769c48f324a1d920f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 467556, guid: 7201f8954189c4d769c48f324a1d920f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 467556, guid: 7201f8954189c4d769c48f324a1d920f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 467556, guid: 7201f8954189c4d769c48f324a1d920f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 467556, guid: 7201f8954189c4d769c48f324a1d920f, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 11436154, guid: 7201f8954189c4d769c48f324a1d920f, type: 3}
+      propertyPath: physicsParams.wallFriction
+      value: -10
+      objectReference: {fileID: 0}
+    - target: {fileID: 11436154, guid: 7201f8954189c4d769c48f324a1d920f, type: 3}
+      propertyPath: physicsParams.jumpWallVelHorizontal
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 11436154, guid: 7201f8954189c4d769c48f324a1d920f, type: 3}
+      propertyPath: physicsParams.jumpWallVelVertical
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 11436154, guid: 7201f8954189c4d769c48f324a1d920f, type: 3}
+      propertyPath: physicsParams.wallFrictionStrong
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 11436154, guid: 7201f8954189c4d769c48f324a1d920f, type: 3}
+      propertyPath: physicsParams.wallFrictionStrongVelThreshold
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 11436154, guid: 7201f8954189c4d769c48f324a1d920f, type: 3}
+      propertyPath: physicsParams.gameGravity
+      value: -30
+      objectReference: {fileID: 0}
+    - target: {fileID: 11436154, guid: 7201f8954189c4d769c48f324a1d920f, type: 3}
+      propertyPath: physicsParams.jumpUpVel
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 11436154, guid: 7201f8954189c4d769c48f324a1d920f, type: 3}
+      propertyPath: physicsParams.onGroundMaxVelHorizontal
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 11436154, guid: 7201f8954189c4d769c48f324a1d920f, type: 3}
+      propertyPath: physicsParams.inAirMoveHorizontalForce
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 11436154, guid: 7201f8954189c4d769c48f324a1d920f, type: 3}
+      propertyPath: physicsParams.jumpUpForce
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 11436154, guid: 7201f8954189c4d769c48f324a1d920f, type: 3}
+      propertyPath: physicsParams.inAirMaxVelHorizontal
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 11436154, guid: 7201f8954189c4d769c48f324a1d920f, type: 3}
+      propertyPath: physicsParams.onGroundMoveHorizontalForce
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 11436154, guid: 7201f8954189c4d769c48f324a1d920f, type: 3}
+      propertyPath: physicsParams.jumpGravity
+      value: -25
+      objectReference: {fileID: 0}
+    - target: {fileID: 11436154, guid: 7201f8954189c4d769c48f324a1d920f, type: 3}
+      propertyPath: physicsParams.groundFriction
+      value: 20
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7201f8954189c4d769c48f324a1d920f, type: 3}
