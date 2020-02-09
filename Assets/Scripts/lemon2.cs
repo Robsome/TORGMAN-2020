@@ -10,6 +10,15 @@ public class lemon2 : MonoBehaviour
     {
         rb.velocity = transform.right * speed;
     }
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        Enemy enem = collision.gameObject.GetComponent<Enemy>();
+        if (enem != null)
+        {
+            enem.hurt(1);
+            Destroy(gameObject);
+        }
+    }
     private void OnBecameInvisible()
     {
         Destroy(gameObject);

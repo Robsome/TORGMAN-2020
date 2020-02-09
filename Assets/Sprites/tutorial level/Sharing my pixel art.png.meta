@@ -1,0 +1,2215 @@
+fileFormatVersion: 2
+guid: 198d558909d71cb4189310665a10b4f1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4311670368991057270
+    second: Sharing my pixel art_0
+  - first:
+      213: -4901156906818621707
+    second: Sharing my pixel art_1
+  - first:
+      213: 3454745537889687289
+    second: Sharing my pixel art_2
+  - first:
+      213: 5985153032552369888
+    second: Sharing my pixel art_3
+  - first:
+      213: -4796370019559000587
+    second: Sharing my pixel art_4
+  - first:
+      213: 3366771037122893432
+    second: Sharing my pixel art_5
+  - first:
+      213: -2163820930163455762
+    second: Sharing my pixel art_6
+  - first:
+      213: -5360548818433512954
+    second: Sharing my pixel art_7
+  - first:
+      213: 8760177839786931396
+    second: Sharing my pixel art_8
+  - first:
+      213: -78863597941568639
+    second: Sharing my pixel art_9
+  - first:
+      213: 2313036859908726861
+    second: Sharing my pixel art_10
+  - first:
+      213: -906156955454511374
+    second: Sharing my pixel art_11
+  - first:
+      213: 5389430801219251269
+    second: Sharing my pixel art_12
+  - first:
+      213: -4804825709533310434
+    second: Sharing my pixel art_13
+  - first:
+      213: 4727995531953413967
+    second: Sharing my pixel art_14
+  - first:
+      213: 2525764117629274808
+    second: Sharing my pixel art_15
+  - first:
+      213: -4505825605251321258
+    second: Sharing my pixel art_16
+  - first:
+      213: -2541525735462435671
+    second: Sharing my pixel art_17
+  - first:
+      213: 4130978262698322543
+    second: Sharing my pixel art_18
+  - first:
+      213: 2728074413367781689
+    second: Sharing my pixel art_19
+  - first:
+      213: -5251700825337833753
+    second: Sharing my pixel art_20
+  - first:
+      213: -6699477981768145484
+    second: Sharing my pixel art_21
+  - first:
+      213: -4173761799439199493
+    second: Sharing my pixel art_22
+  - first:
+      213: -2882478382125570884
+    second: Sharing my pixel art_23
+  - first:
+      213: 5266327795701675968
+    second: Sharing my pixel art_24
+  - first:
+      213: -8236131195215730420
+    second: Sharing my pixel art_25
+  - first:
+      213: -8495633887726894302
+    second: Sharing my pixel art_26
+  - first:
+      213: -7536833649037060730
+    second: Sharing my pixel art_27
+  - first:
+      213: 4856231337039802751
+    second: Sharing my pixel art_28
+  - first:
+      213: -1147603750346065764
+    second: Sharing my pixel art_29
+  - first:
+      213: 1573147136418973992
+    second: Sharing my pixel art_30
+  - first:
+      213: -8495323525197925091
+    second: Sharing my pixel art_31
+  - first:
+      213: -7774001945687005630
+    second: Sharing my pixel art_32
+  - first:
+      213: 1970707855278634300
+    second: Sharing my pixel art_33
+  - first:
+      213: -1117529380419645405
+    second: Sharing my pixel art_34
+  - first:
+      213: 6261329451396853843
+    second: Sharing my pixel art_35
+  - first:
+      213: -7457453988505117856
+    second: Sharing my pixel art_36
+  - first:
+      213: 8672838517511466070
+    second: Sharing my pixel art_37
+  - first:
+      213: -4001516224983790975
+    second: Sharing my pixel art_38
+  - first:
+      213: -8351068157717095880
+    second: Sharing my pixel art_39
+  - first:
+      213: -8221473354968775679
+    second: Sharing my pixel art_40
+  - first:
+      213: 8669736823540476520
+    second: Sharing my pixel art_41
+  - first:
+      213: -559819465727504444
+    second: Sharing my pixel art_42
+  - first:
+      213: 7612676765011638287
+    second: Sharing my pixel art_43
+  - first:
+      213: 2408980499316610296
+    second: Sharing my pixel art_44
+  - first:
+      213: 6223513727101229046
+    second: Sharing my pixel art_45
+  - first:
+      213: -2332746908822633713
+    second: Sharing my pixel art_46
+  - first:
+      213: -4988665327251677916
+    second: Sharing my pixel art_47
+  - first:
+      213: -1768396736444599660
+    second: Sharing my pixel art_48
+  - first:
+      213: 2800248883769521048
+    second: Sharing my pixel art_49
+  - first:
+      213: -7011054027692213492
+    second: Sharing my pixel art_50
+  - first:
+      213: 7601161773767391180
+    second: Sharing my pixel art_51
+  - first:
+      213: -6831278875294873339
+    second: Sharing my pixel art_52
+  - first:
+      213: 1401917744574971103
+    second: Sharing my pixel art_53
+  - first:
+      213: 821430093116221688
+    second: Sharing my pixel art_54
+  - first:
+      213: -1325318153570414522
+    second: Sharing my pixel art_55
+  - first:
+      213: 9014154056670204601
+    second: Sharing my pixel art_56
+  - first:
+      213: -7569243673272239623
+    second: Sharing my pixel art_57
+  - first:
+      213: 344694116043405064
+    second: Sharing my pixel art_58
+  - first:
+      213: 6462567830990405150
+    second: Sharing my pixel art_59
+  - first:
+      213: 6403916894045529884
+    second: Sharing my pixel art_60
+  - first:
+      213: 3016233933347986296
+    second: Sharing my pixel art_61
+  - first:
+      213: 7228631322285088101
+    second: Sharing my pixel art_62
+  - first:
+      213: 776131857113761096
+    second: Sharing my pixel art_63
+  - first:
+      213: -1257292190802848655
+    second: Sharing my pixel art_64
+  - first:
+      213: -6041041165597791928
+    second: Sharing my pixel art_65
+  - first:
+      213: -1163681136732520925
+    second: Sharing my pixel art_66
+  - first:
+      213: -8594435661146753722
+    second: Sharing my pixel art_67
+  - first:
+      213: -7525044929820830114
+    second: Sharing my pixel art_68
+  - first:
+      213: -7850586620492820505
+    second: Sharing my pixel art_69
+  - first:
+      213: 8860864591808714512
+    second: Sharing my pixel art_70
+  - first:
+      213: -8249177613993086670
+    second: Sharing my pixel art_71
+  - first:
+      213: 6534547386617588741
+    second: Sharing my pixel art_72
+  - first:
+      213: -6705055946457401351
+    second: Sharing my pixel art_73
+  - first:
+      213: 4214402612115820550
+    second: Sharing my pixel art_74
+  - first:
+      213: -2393396142240059086
+    second: Sharing my pixel art_75
+  - first:
+      213: 2146642832726001928
+    second: Sharing my pixel art_76
+  - first:
+      213: 7824659001047269648
+    second: Sharing my pixel art_77
+  - first:
+      213: 4336191757662967491
+    second: Sharing my pixel art_78
+  - first:
+      213: 7197629227991965402
+    second: Sharing my pixel art_79
+  - first:
+      213: -7451664153767295166
+    second: Sharing my pixel art_80
+  - first:
+      213: -1906384026573264981
+    second: Sharing my pixel art_81
+  - first:
+      213: 6898266596160330850
+    second: Sharing my pixel art_82
+  - first:
+      213: 7389331784414147073
+    second: Sharing my pixel art_83
+  - first:
+      213: 890555666735514288
+    second: Sharing my pixel art_84
+  - first:
+      213: 2254240555718666494
+    second: Sharing my pixel art_85
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sharing my pixel art_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 445
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6751a4c3b5126db30800000000000000
+      internalID: 4311670368991057270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharing my pixel art_1
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 465
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5feaf9cb2c79bfbb0800000000000000
+      internalID: -4901156906818621707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharing my pixel art_2
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 469
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f6d74f33c8b1ff20800000000000000
+      internalID: 3454745537889687289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharing my pixel art_3
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 474
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eec2afe8f88f0350800000000000000
+      internalID: 5985153032552369888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharing my pixel art_4
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 482
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f53ad421eedf6db0800000000000000
+      internalID: -4796370019559000587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharing my pixel art_5
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 482
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87698cb9b6c29be20800000000000000
+      internalID: 3366771037122893432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharing my pixel art_6
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 482
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee84d04145098f1e0800000000000000
+      internalID: -2163820930163455762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharing my pixel art_7
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 482
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60a612440418b95b0800000000000000
+      internalID: -5360548818433512954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharing my pixel art_8
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 488
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c4bfb5f457629970800000000000000
+      internalID: 8760177839786931396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharing my pixel art_9
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 488
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18bcbfab9f1d7eef0800000000000000
+      internalID: -78863597941568639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharing my pixel art_10
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 488
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d40ae33e4ce891020800000000000000
+      internalID: 2313036859908726861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharing my pixel art_11
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 488
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f6626fcc0fac63f0800000000000000
+      internalID: -906156955454511374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharing my pixel art_12
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 488
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ce83062ca1bca40800000000000000
+      internalID: 5389430801219251269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharing my pixel art_13
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 488
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e125a976974d15db0800000000000000
+      internalID: -4804825709533310434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharing my pixel art_14
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 488
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f97b5e2e63d9140800000000000000
+      internalID: 4727995531953413967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharing my pixel art_15
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 464
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ba88b935115d0320800000000000000
+      internalID: 2525764117629274808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharing my pixel art_16
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 449
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 652b2232c771871c0800000000000000
+      internalID: -4505825605251321258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharing my pixel art_17
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 435
+        width: 76
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a48f362fcfaabcd0800000000000000
+      internalID: -2541525735462435671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharing my pixel art_18
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 463
+        width: 51
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a6ef2d7de245930800000000000000
+      internalID: 4130978262698322543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharing my pixel art_19
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 422
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9396e9999311cd520800000000000000
+      internalID: 2728074413367781689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharing my pixel art_20
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 421
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e6dc1f8ce53e17b0800000000000000
+      internalID: -5251700825337833753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharing my pixel art_21
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 420
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b5a82c554ca603a0800000000000000
+      internalID: -6699477981768145484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharing my pixel art_22
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 422
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf2d457c1c1d316c0800000000000000
+      internalID: -4173761799439199493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharing my pixel art_23
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 447
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb4a9a8fe216ff7d0800000000000000
+      internalID: -2882478382125570884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharing my pixel art_24
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 447
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c7709d5a31c51940800000000000000
+      internalID: 5266327795701675968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharing my pixel art_25
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 444
+        width: 51
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0927a9905263bd80800000000000000
+      internalID: -8236131195215730420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharing my pixel art_26
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 394
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 223844cadf1791a80800000000000000
+      internalID: -8495633887726894302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharing my pixel art_27
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 430
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6855fe16ab9c76790800000000000000
+      internalID: -7536833649037060730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharing my pixel art_28
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 430
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f71b06febacc46340800000000000000
+      internalID: 4856231337039802751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharing my pixel art_29
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 424
+        width: 51
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9877b52874e210f0800000000000000
+      internalID: -1147603750346065764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharing my pixel art_30
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 392
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8290da55cf0f4d510800000000000000
+      internalID: 1573147136418973992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharing my pixel art_31
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 400
+        width: 53
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d15fe84934c8a1a80800000000000000
+      internalID: -8495323525197925091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharing my pixel art_32
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 408
+        width: 51
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24661283b623d1490800000000000000
+      internalID: -7774001945687005630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharing my pixel art_33
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 369
+        width: 52
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3574f56a5c595b10800000000000000
+      internalID: 1970707855278634300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharing my pixel art_34
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 391
+        width: 51
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 320560e03fcbd70f0800000000000000
+      internalID: -1117529380419645405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharing my pixel art_35
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 342
+        width: 17
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 350733c46f5b4e650800000000000000
+      internalID: 6261329451396853843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharing my pixel art_36
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 222
+        width: 151
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b1556db1dc18890800000000000000
+      internalID: -7457453988505117856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharing my pixel art_37
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 345
+        width: 52
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65ca8965eac1c5870800000000000000
+      internalID: 8672838517511466070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharing my pixel art_38
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 372
+        width: 51
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18a01eeb132c778c0800000000000000
+      internalID: -4001516224983790975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharing my pixel art_39
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 355
+        width: 51
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83a5234a1cb0b1c80800000000000000
+      internalID: -8351068157717095880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharing my pixel art_40
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 168
+        width: 119
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1044fbafa8577ed80800000000000000
+      internalID: -8221473354968775679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharing my pixel art_41
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 198
+        width: 16
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86ae04fe4b7115870800000000000000
+      internalID: 8669736823540476520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharing my pixel art_42
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 238
+        width: 18
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cf86f6792f1b38f0800000000000000
+      internalID: -559819465727504444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharing my pixel art_43
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 179
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0873602f29a5a960800000000000000
+      internalID: 7612676765011638287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharing my pixel art_44
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 179
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f41c94300b6e6120800000000000000
+      internalID: 2408980499316610296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharing my pixel art_45
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 167
+        width: 91
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f7d2aed2cc5e5650800000000000000
+      internalID: 6223513727101229046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharing my pixel art_46
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 150
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f038cbcbb0b60afd0800000000000000
+      internalID: -2332746908822633713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharing my pixel art_47
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 150
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42d1bd1e053b4cab0800000000000000
+      internalID: -4988665327251677916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharing my pixel art_48
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 155
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 492724e99846577e0800000000000000
+      internalID: -1768396736444599660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharing my pixel art_49
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 155
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89334cff58b7cd620800000000000000
+      internalID: 2800248883769521048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharing my pixel art_50
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 155
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0b755a028bb3be90800000000000000
+      internalID: -7011054027692213492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharing my pixel art_51
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 155
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc7fead4c50cc7960800000000000000
+      internalID: 7601161773767391180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharing my pixel art_52
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 97
+        width: 76
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5094b6c7e0c6231a0800000000000000
+      internalID: -6831278875294873339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharing my pixel art_53
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 133
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc35b1d2cc947310800000000000000
+      internalID: 1401917744574971103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharing my pixel art_54
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 133
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f8220c415e466b00800000000000000
+      internalID: 821430093116221688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharing my pixel art_55
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 133
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6401f0249268b9de0800000000000000
+      internalID: -1325318153570414522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharing my pixel art_56
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 133
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b259720b55b81d70800000000000000
+      internalID: 9014154056670204601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharing my pixel art_57
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 133
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f93c349bf4a4f690800000000000000
+      internalID: -7569243673272239623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharing my pixel art_58
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 137
+        width: 91
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8073fe6e87998c400800000000000000
+      internalID: 344694116043405064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharing my pixel art_59
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 111
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ebc0fb337afa950800000000000000
+      internalID: 6462567830990405150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharing my pixel art_60
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 111
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c17e4b85c784fd850800000000000000
+      internalID: 6403916894045529884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharing my pixel art_61
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 111
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87b9fac18c0dbd920800000000000000
+      internalID: 3016233933347986296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharing my pixel art_62
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 111
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d901183e1415460800000000000000
+      internalID: 7228631322285088101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharing my pixel art_63
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 111
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 845412adfcf55ca00800000000000000
+      internalID: 776131857113761096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharing my pixel art_64
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 111
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 174d254f9633d8ee0800000000000000
+      internalID: -1257292190802848655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharing my pixel art_65
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 106
+        width: 91
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84928031119e92ca0800000000000000
+      internalID: -6041041165597791928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharing my pixel art_66
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2
+        width: 126
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e3c3deb26c9dfe0800000000000000
+      internalID: -1163681136732520925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharing my pixel art_67
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 74
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 645f56c2d4e6ab880800000000000000
+      internalID: -8594435661146753722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharing my pixel art_68
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 75
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e56dc27718ba19790800000000000000
+      internalID: -7525044929820830114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharing my pixel art_69
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 75
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef4717101d1d0390800000000000000
+      internalID: -7850586620492820505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharing my pixel art_70
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 75
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 017589d366d18fa70800000000000000
+      internalID: 8860864591808714512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharing my pixel art_71
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 75
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23176d48aa8058d80800000000000000
+      internalID: -8249177613993086670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharing my pixel art_72
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 75
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c6c430a306faa50800000000000000
+      internalID: 6534547386617588741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharing my pixel art_73
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 75
+        width: 91
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f73940442bd2f2a0800000000000000
+      internalID: -6705055946457401351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharing my pixel art_74
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 39
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60054abc8d09c7a30800000000000000
+      internalID: 4214402612115820550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharing my pixel art_75
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 39
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 231bdfea3e2f8ced0800000000000000
+      internalID: -2393396142240059086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharing my pixel art_76
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 39
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 809854078486acd10800000000000000
+      internalID: 2146642832726001928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharing my pixel art_77
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 39
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0114cf597e5c69c60800000000000000
+      internalID: 7824659001047269648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharing my pixel art_78
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 48
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c65a71fd6f3d2c30800000000000000
+      internalID: 4336191757662967491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharing my pixel art_79
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 3
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ade1e6fe5ad13e360800000000000000
+      internalID: 7197629227991965402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharing my pixel art_80
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 3
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2474039ceee569890800000000000000
+      internalID: -7451664153767295166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharing my pixel art_81
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 3
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba72f9a04d92b85e0800000000000000
+      internalID: -1906384026573264981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharing my pixel art_82
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 3
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26c541eabe09bbf50800000000000000
+      internalID: 6898266596160330850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharing my pixel art_83
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 3
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10232898b1e2c8660800000000000000
+      internalID: 7389331784414147073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharing my pixel art_84
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 3
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b24b7819a3eb5c00800000000000000
+      internalID: 890555666735514288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharing my pixel art_85
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 4
+        width: 61
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef8e3e987dba84f10800000000000000
+      internalID: 2254240555718666494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -15,5 +15,14 @@ public class cameraHorrizontal : MonoBehaviour
         {
             transform.position = new Vector3(player.position.x, transform.position.y, transform.position.z);
         }
+        if (player.position.x < stopLeft)
+        {
+            transform.position = new Vector3(stopLeft, transform.position.y, transform.position.z);
+        }
+        if (player.position.x > stopRight)
+        {
+            transform.position = new Vector3(stopRight, transform.position.y, transform.position.z);
+        }
     }
+    
 }
